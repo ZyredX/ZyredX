@@ -1,2 +1,0 @@
-- 👋 Hi, I’m @ZyredX
-- 👀 I’m interested in Exploits
