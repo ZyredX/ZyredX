@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/realredz/DEX-Explorer/refs/heads/main/Mobile.lua"))()
+loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Dex-plus-plus-46438"))()
