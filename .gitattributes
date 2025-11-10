@@ -1,0 +1,7 @@
+Data.zip filter=lfs diff=lfs merge=lfs -text
+updatesx.rar filter=lfs diff=lfs merge=lfs -text
+zyred filter=lfs diff=lfs merge=lfs -text
+x.zip filter=lfs diff=lfs merge=lfs -text
+Zyred filter=lfs diff=lfs merge=lfs -text
+X.zip filter=lfs diff=lfs merge=lfs -text
+Zyred_X.zip filter=lfs diff=lfs merge=lfs -text
