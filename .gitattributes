@@ -5,3 +5,4 @@ x.zip filter=lfs diff=lfs merge=lfs -text
 Zyred filter=lfs diff=lfs merge=lfs -text
 X.zip filter=lfs diff=lfs merge=lfs -text
 Zyred_X.zip filter=lfs diff=lfs merge=lfs -text
+Zyred.rar filter=lfs diff=lfs merge=lfs -text
