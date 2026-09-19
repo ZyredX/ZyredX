@@ -1,0 +1,1232 @@
+[
+  {
+    "nombre": "Synapse X.exe",
+    "hash": "ad7c9b00fdd288859eec92a1b94aaef2",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe"
+  },
+  {
+    "nombre": "auth/Archivos.txt",
+    "hash": "cf6ae8019703c7192dbf90f227b439ff",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/Archivos.txt"
+  },
+  {
+    "nombre": "auth/listboxcolor.txt",
+    "hash": "e43ed7846af7352ac502abe81adb4847",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/listboxcolor.txt"
+  },
+  {
+    "nombre": "auth/ace/ace.js",
+    "hash": "95358dbd5c3c0b35da317ad06ed598e7",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/ace.js"
+  },
+  {
+    "nombre": "auth/ace/ext-beautify.js",
+    "hash": "ad7f90d7bdcd39232e4743c5f73ebd9c",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/ext-beautify.js"
+  },
+  {
+    "nombre": "auth/ace/ext-code_lens.js",
+    "hash": "741cfb72dc5b4bed433fa0b85098f3ef",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/ext-code_lens.js"
+  },
+  {
+    "nombre": "auth/ace/ext-elastic_tabstops_lite.js",
+    "hash": "1f03c9a69a8b9f79bcb7a338963f80c8",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/ext-elastic_tabstops_lite.js"
+  },
+  {
+    "nombre": "auth/ace/ext-emmet.js",
+    "hash": "7538e0fe4abebcdb3ff1e8d7cde58f35",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/ext-emmet.js"
+  },
+  {
+    "nombre": "auth/ace/ext-error_marker.js",
+    "hash": "bbd62124f6d03e01eb4332f55ead999d",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/ext-error_marker.js"
+  },
+  {
+    "nombre": "auth/ace/ext-keybinding_menu.js",
+    "hash": "5e1dbd63b493d399404d7d8d5b9e5934",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/ext-keybinding_menu.js"
+  },
+  {
+    "nombre": "auth/ace/ext-language_tools.js",
+    "hash": "b2624e9bbd204d41e16166acfdd16bb4",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/ext-language_tools.js"
+  },
+  {
+    "nombre": "auth/ace/ext-linking.js",
+    "hash": "19a2b55271f405d0b97fad53c9d5ec2d",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/ext-linking.js"
+  },
+  {
+    "nombre": "auth/ace/ext-modelist.js",
+    "hash": "8d48b1c87815f2e63676e540006661b2",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/ext-modelist.js"
+  },
+  {
+    "nombre": "auth/ace/ext-options.js",
+    "hash": "d4e84f72257ee333e0c2f16e6044ca31",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/ext-options.js"
+  },
+  {
+    "nombre": "auth/ace/ext-prompt.js",
+    "hash": "c78aa7d996f7fa6a6431ad18569aa1d7",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/ext-prompt.js"
+  },
+  {
+    "nombre": "auth/ace/ext-rtl.js",
+    "hash": "a5cb31cfb4711ef14999198f0d35eaf3",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/ext-rtl.js"
+  },
+  {
+    "nombre": "auth/ace/ext-searchbox.js",
+    "hash": "84d3403e422e4697e86914f183a60a13",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/ext-searchbox.js"
+  },
+  {
+    "nombre": "auth/ace/ext-settings_menu.js",
+    "hash": "50ced4e5c46ee8b656aba2b6bce40703",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/ext-settings_menu.js"
+  },
+  {
+    "nombre": "auth/ace/ext-spellcheck.js",
+    "hash": "d27d5c5480c14bffe9ffc07fec3a806d",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/ext-spellcheck.js"
+  },
+  {
+    "nombre": "auth/ace/ext-split.js",
+    "hash": "f457edce8a9809fa16aab3c8e695bf38",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/ext-split.js"
+  },
+  {
+    "nombre": "auth/ace/ext-static_highlight.js",
+    "hash": "f3b6993cd8f9bbdd1d5ad68a5e1cdf70",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/ext-static_highlight.js"
+  },
+  {
+    "nombre": "auth/ace/ext-statusbar.js",
+    "hash": "43dab3876e6402fc9ae359a033683cc4",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/ext-statusbar.js"
+  },
+  {
+    "nombre": "auth/ace/ext-textarea.js",
+    "hash": "280ba139ff95428f262adbf81b77aeb4",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/ext-textarea.js"
+  },
+  {
+    "nombre": "auth/ace/ext-themelist.js",
+    "hash": "0fb66b5df979aa54298b32e978f97734",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/ext-themelist.js"
+  },
+  {
+    "nombre": "auth/ace/ext-whitespace.js",
+    "hash": "d08030a8f6057b63643bacf4cee162b0",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/ext-whitespace.js"
+  },
+  {
+    "nombre": "auth/ace/keybinding-emacs.js",
+    "hash": "d65352bb104d3c489077796fb64734eb",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/keybinding-emacs.js"
+  },
+  {
+    "nombre": "auth/ace/keybinding-sublime.js",
+    "hash": "8dec848a9d34e3804976ae4a589fbc4f",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/keybinding-sublime.js"
+  },
+  {
+    "nombre": "auth/ace/keybinding-vim.js",
+    "hash": "6d6c882a60bc5c9438a34c5eb6f61741",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/keybinding-vim.js"
+  },
+  {
+    "nombre": "auth/ace/keybinding-vscode.js",
+    "hash": "2f99e3a01e993f0d2cf6652da3dd1889",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/keybinding-vscode.js"
+  },
+  {
+    "nombre": "auth/ace/mode-lua.js",
+    "hash": "f9f4979b01b0d658fbad7c17f286d623",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/mode-lua.js"
+  },
+  {
+    "nombre": "auth/ace/theme-ambiance.js",
+    "hash": "fedeaa497e12a1bc0d662f9e5657ac7a",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/theme-ambiance.js"
+  },
+  {
+    "nombre": "auth/ace/theme-chaos.js",
+    "hash": "2f0a14537d449d02e05ac0d76249c830",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/theme-chaos.js"
+  },
+  {
+    "nombre": "auth/ace/theme-chrome.js",
+    "hash": "1afbeca385b131cfc3ae515b89e552c7",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/theme-chrome.js"
+  },
+  {
+    "nombre": "auth/ace/theme-clouds.js",
+    "hash": "3c0ec12aff6e148d235875bfed4ca421",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/theme-clouds.js"
+  },
+  {
+    "nombre": "auth/ace/theme-clouds_midnight.js",
+    "hash": "ae5d4d6eea08ccfac67e44bfe11da4ed",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/theme-clouds_midnight.js"
+  },
+  {
+    "nombre": "auth/ace/theme-cobalt.js",
+    "hash": "85e246a36ca53e3f767608542dcd26b3",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/theme-cobalt.js"
+  },
+  {
+    "nombre": "auth/ace/theme-crimson_editor.js",
+    "hash": "10bc79414b62df132421027bbf5e5c3e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/theme-crimson_editor.js"
+  },
+  {
+    "nombre": "auth/ace/theme-dawn.js",
+    "hash": "c033d0cf791d80ef14327c1ade637578",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/theme-dawn.js"
+  },
+  {
+    "nombre": "auth/ace/theme-dracula.js",
+    "hash": "f6cfc0e0566a350632db32ece39b649d",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/theme-dracula.js"
+  },
+  {
+    "nombre": "auth/ace/theme-dreamweaver.js",
+    "hash": "19573d26f286762809b86f935516c1ac",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/theme-dreamweaver.js"
+  },
+  {
+    "nombre": "auth/ace/theme-eclipse.js",
+    "hash": "e7a892eff1dd4ac60e8201386497b66b",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/theme-eclipse.js"
+  },
+  {
+    "nombre": "auth/ace/theme-github.js",
+    "hash": "f4b747bf296f21fcf6d59357e92f948d",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/theme-github.js"
+  },
+  {
+    "nombre": "auth/ace/theme-gob.js",
+    "hash": "0ab67a107deacf1d9b22eb0b706486db",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/theme-gob.js"
+  },
+  {
+    "nombre": "auth/ace/theme-gruvbox.js",
+    "hash": "d2b533a0128ef6edfaf153c0fa19e432",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/theme-gruvbox.js"
+  },
+  {
+    "nombre": "auth/ace/theme-idle_fingers.js",
+    "hash": "d5a596705e8b1c50832d29b25f4ffb0a",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/theme-idle_fingers.js"
+  },
+  {
+    "nombre": "auth/ace/theme-iplastic.js",
+    "hash": "8536514f6ace9c40d36020af05e067fe",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/theme-iplastic.js"
+  },
+  {
+    "nombre": "auth/ace/theme-katzenmilch.js",
+    "hash": "9588381016bdc5e88634572e630b4551",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/theme-katzenmilch.js"
+  },
+  {
+    "nombre": "auth/ace/theme-kr_theme.js",
+    "hash": "a5cd4d965591278c0519bdfa761ea3aa",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/theme-kr_theme.js"
+  },
+  {
+    "nombre": "auth/ace/theme-kuroir.js",
+    "hash": "400622a60e8e3194e3d666d073e3c7db",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/theme-kuroir.js"
+  },
+  {
+    "nombre": "auth/ace/theme-merbivore.js",
+    "hash": "d9e70caae42a8f91d34536f0d7941673",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/theme-merbivore.js"
+  },
+  {
+    "nombre": "auth/ace/theme-merbivore_soft.js",
+    "hash": "30f5b57295dfda4eafc7f8c098160582",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/theme-merbivore_soft.js"
+  },
+  {
+    "nombre": "auth/ace/theme-monokai.js",
+    "hash": "7da5aafe24e626f9bced82fe40567386",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/theme-monokai.js"
+  },
+  {
+    "nombre": "auth/ace/theme-mono_industrial.js",
+    "hash": "d7e8066668f05d83f86a128d7dbd45a2",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/theme-mono_industrial.js"
+  },
+  {
+    "nombre": "auth/ace/theme-pastel_on_dark.js",
+    "hash": "dcf82c5c24de859d74953010a3bf7f11",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/theme-pastel_on_dark.js"
+  },
+  {
+    "nombre": "auth/ace/theme-personal.js",
+    "hash": "046c8e800d48b0548d8d017ddd175f04",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/theme-personal.js"
+  },
+  {
+    "nombre": "auth/ace/theme-solarized_dark.js",
+    "hash": "f29286fc7d5663eb11457f48664f324d",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/theme-solarized_dark.js"
+  },
+  {
+    "nombre": "auth/ace/theme-solarized_light.js",
+    "hash": "476880245318ad211000fa55cb15d83f",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/theme-solarized_light.js"
+  },
+  {
+    "nombre": "auth/ace/theme-sqlserver.js",
+    "hash": "b1ff2cb4863b8ed961d815393cfe246d",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/theme-sqlserver.js"
+  },
+  {
+    "nombre": "auth/ace/theme-terminal.js",
+    "hash": "44b4462224957b51234691dacc5dd4c8",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/theme-terminal.js"
+  },
+  {
+    "nombre": "auth/ace/theme-textmate.js",
+    "hash": "2f6f1f6753d430190cb38411a9112f08",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/theme-textmate.js"
+  },
+  {
+    "nombre": "auth/ace/theme-tomorrow.js",
+    "hash": "c8c48c73e7d7dd2c142badc913ab26fe",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/theme-tomorrow.js"
+  },
+  {
+    "nombre": "auth/ace/theme-tomorrow_night.js",
+    "hash": "4f0436f3850202d127036b38729c6861",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/theme-tomorrow_night.js"
+  },
+  {
+    "nombre": "auth/ace/theme-tomorrow_night_blue.js",
+    "hash": "2208705283adad817bb4a5af647f77ab",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/theme-tomorrow_night_blue.js"
+  },
+  {
+    "nombre": "auth/ace/theme-tomorrow_night_bright.js",
+    "hash": "0ebc6c9681e409f2bf3bb6d8ce64e28e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/theme-tomorrow_night_bright.js"
+  },
+  {
+    "nombre": "auth/ace/theme-tomorrow_night_eighties.js",
+    "hash": "33675689561f21f5bd0020f23ac2e7ad",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/theme-tomorrow_night_eighties.js"
+  },
+  {
+    "nombre": "auth/ace/theme-twilight.js",
+    "hash": "7f97ea63879ac5f3a2b491a651a1a82f",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/theme-twilight.js"
+  },
+  {
+    "nombre": "auth/ace/theme-vibrant_ink.js",
+    "hash": "42837f940cb1b7ef3aacf38a45916320",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/theme-vibrant_ink.js"
+  },
+  {
+    "nombre": "auth/ace/theme-xcode.js",
+    "hash": "0cab51dee983721ec757e7e209a67c1d",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/theme-xcode.js"
+  },
+  {
+    "nombre": "auth/ace/worker-coffee.js",
+    "hash": "2ca4ea702825c3457bb65775b58785dd",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/worker-coffee.js"
+  },
+  {
+    "nombre": "auth/ace/worker-css.js",
+    "hash": "ed9f6b7ad7669cd7eb09e5274ace46cb",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/worker-css.js"
+  },
+  {
+    "nombre": "auth/ace/worker-html.js",
+    "hash": "9b72ecdeddb846d5647a815c13516e8a",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/worker-html.js"
+  },
+  {
+    "nombre": "auth/ace/worker-javascript.js",
+    "hash": "8d906baaf36c4de14dbc705704a7a4d3",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/worker-javascript.js"
+  },
+  {
+    "nombre": "auth/ace/worker-json.js",
+    "hash": "d5ebfee5d8e9d54589a6e4fd94358201",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/worker-json.js"
+  },
+  {
+    "nombre": "auth/ace/worker-lua.js",
+    "hash": "e7a822981408dd72628c8a432a09cc56",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/worker-lua.js"
+  },
+  {
+    "nombre": "auth/ace/worker-php.js",
+    "hash": "d7302debe97bdeb212f63038f7826085",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/worker-php.js"
+  },
+  {
+    "nombre": "auth/ace/worker-xml.js",
+    "hash": "37b74896876f888cb35d7caec899578e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/worker-xml.js"
+  },
+  {
+    "nombre": "auth/ace/worker-xquery.js",
+    "hash": "d0941c51a8a87775aaad8f463e5f5e4c",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/worker-xquery.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/abap.js",
+    "hash": "b041dbc078ff4c44294022569c7e1fda",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/abap.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/abc.js",
+    "hash": "37e37aa178d97ffcd94eeee1e1a25967",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/abc.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/actionscript.js",
+    "hash": "b4bd28ac3a7935d0c52a6cb19c89aced",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/actionscript.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/ada.js",
+    "hash": "06dd700316770ac2bafb9202be298dcc",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/ada.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/apache_conf.js",
+    "hash": "b72b274cae51085e3d09f54fbfa6c20c",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/apache_conf.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/apex.js",
+    "hash": "d15bf311e74a25fa9c40053c3336eab1",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/apex.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/applescript.js",
+    "hash": "8369703a12bca7fe68cc1e73cc3b43de",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/applescript.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/aql.js",
+    "hash": "c4c6bdfa4274e17eedb2755685158242",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/aql.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/asciidoc.js",
+    "hash": "863966b0f8f6f0e5777fcf8ba2f72217",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/asciidoc.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/asl.js",
+    "hash": "6fffb9f1dd0b4a1c805a7c5e7678d8e1",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/asl.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/assembly_x86.js",
+    "hash": "f829c90f48ef0234876f9e325ff04478",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/assembly_x86.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/autohotkey.js",
+    "hash": "d793665bc912409fba00de31ec38f078",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/autohotkey.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/batchfile.js",
+    "hash": "861eca236c1025d1fd3bfb61a287e4be",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/batchfile.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/bro.js",
+    "hash": "e814f61cd2aa98bd748b50413a3c63c3",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/bro.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/c9search.js",
+    "hash": "82641ab6d720341c411a8e723c518395",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/c9search.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/cirru.js",
+    "hash": "ab03e0295a4fb6e86bbb24af6fdf2a34",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/cirru.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/clojure.js",
+    "hash": "86dfc095a8bb97b2b6d94b798ebcdc61",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/clojure.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/cobol.js",
+    "hash": "84396caa48ae12acce7dc5f743330628",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/cobol.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/coffee.js",
+    "hash": "243d8101969c933d25388b5287bb3425",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/coffee.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/coldfusion.js",
+    "hash": "b5cf565ba84271f8dcfb6132b032a2be",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/coldfusion.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/crystal.js",
+    "hash": "61fadb1e620315af4973e9beee66f1b4",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/crystal.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/csharp.js",
+    "hash": "5683c8e2b4781ac5373747e5e6268216",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/csharp.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/csound_document.js",
+    "hash": "06d453ace473034cd357edb758d539ab",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/csound_document.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/csound_orchestra.js",
+    "hash": "bd98610e395f3b4c7915cf3fbe854f6f",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/csound_orchestra.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/csound_score.js",
+    "hash": "64e0bdef3d222c8d85b006d237204914",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/csound_score.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/csp.js",
+    "hash": "03fde970c4a49be262f82a2ba54b7831",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/csp.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/css.js",
+    "hash": "88d5efab68c7526ad2ad4196932adb03",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/css.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/curly.js",
+    "hash": "12fcb95361de9251f1be9f0689a14453",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/curly.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/c_cpp.js",
+    "hash": "4474c9775d04684871043fae3501ec66",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/c_cpp.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/d.js",
+    "hash": "9db2ee95c6bd343410c6e51b2470fafd",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/d.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/dart.js",
+    "hash": "e8250271e7641960341ae2ac170af4ac",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/dart.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/diff.js",
+    "hash": "7af5865535fb306e7d0364a9ff81f389",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/diff.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/django.js",
+    "hash": "4037e6d4b18e3e286dec455cc63c1d17",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/django.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/dockerfile.js",
+    "hash": "9cc943893664c6bd450c099a2b0c8b7e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/dockerfile.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/dot.js",
+    "hash": "bd0f4d8761b0b7ec064f3aceb69cc92c",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/dot.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/drools.js",
+    "hash": "0dc486b4415f7cbd7ddde8f32b6f12f1",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/drools.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/edifact.js",
+    "hash": "294fbc5b00264d6215dd8ff838dc2999",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/edifact.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/eiffel.js",
+    "hash": "8d9ab03ad891997ec1b12b718a69b855",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/eiffel.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/ejs.js",
+    "hash": "c6845f5ab9b3d7b55d4119b8a207bb0b",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/ejs.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/elixir.js",
+    "hash": "ed5d6ade3c083e0fb348726e9d5a4829",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/elixir.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/elm.js",
+    "hash": "29a6c0d9c964e02cab82d9b68890324e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/elm.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/erlang.js",
+    "hash": "9360974ffacadb05145e2f6c1458f35b",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/erlang.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/forth.js",
+    "hash": "279a6baa1089231c58d050c4c4182590",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/forth.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/fortran.js",
+    "hash": "f8219bf4097e53987f2cab95f8ed2fb9",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/fortran.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/fsharp.js",
+    "hash": "d2d3e8d6fe7bb1625674d81075e49626",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/fsharp.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/fsl.js",
+    "hash": "47cd5c7d174e6b624e55510c4e503600",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/fsl.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/ftl.js",
+    "hash": "c3ec16e3e59164dd3cbef365b8fe3620",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/ftl.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/gcode.js",
+    "hash": "16f4439a0d344c68357e63c24719dfc2",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/gcode.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/gherkin.js",
+    "hash": "7587c99e77660465e5d9c7311d41e514",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/gherkin.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/gitignore.js",
+    "hash": "697c7efe64d99e8389a6f2ad9784f105",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/gitignore.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/glsl.js",
+    "hash": "9392e8f68c7946a14e10547df6f0dea6",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/glsl.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/gobstones.js",
+    "hash": "58d885ab56201085ce55e8eb5d3f2ac2",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/gobstones.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/golang.js",
+    "hash": "ef6556c4b58c8fd5ddf71610712b210e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/golang.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/graphqlschema.js",
+    "hash": "c7fb0ccebacccfb5c2f7b2f6023ebe4a",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/graphqlschema.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/groovy.js",
+    "hash": "124d60d8a09f472321bb9a02878bc8a2",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/groovy.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/haml.js",
+    "hash": "74973bbb728e661679e49a16773535a4",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/haml.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/handlebars.js",
+    "hash": "5f36c529684a07a9edd15a9219712583",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/handlebars.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/haskell.js",
+    "hash": "1570e695c448e6a4f3a6bdf0372b58f0",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/haskell.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/haskell_cabal.js",
+    "hash": "a335711560ec0ed6dfa0c4de8a381e9a",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/haskell_cabal.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/haxe.js",
+    "hash": "6774595acd68fb2e874d812c4067d0cc",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/haxe.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/hjson.js",
+    "hash": "92da0f0094807604e8ee166add5b4c8b",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/hjson.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/html.js",
+    "hash": "63999023068dcbebee417ac354fe4e78",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/html.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/html_elixir.js",
+    "hash": "3497c161c30d19381330bad5ccffc91e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/html_elixir.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/html_ruby.js",
+    "hash": "e3c98100442ffaafdb150f31e514b019",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/html_ruby.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/ini.js",
+    "hash": "02f9e1083a8b03ae4f83fa79c1a4a08e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/ini.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/io.js",
+    "hash": "3e6cde7f6a3d84c5cff5127be1c019f3",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/io.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/jack.js",
+    "hash": "67aa7d199d87faa231a278e753da1a5a",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/jack.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/jade.js",
+    "hash": "4a4234685007dd9236a440750c1d320e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/jade.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/java.js",
+    "hash": "9e875d25eb6d80340adac0cfc35700c1",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/java.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/javascript.js",
+    "hash": "4263ed179f5b2268965e1157074583e8",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/javascript.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/jsNodes.dll",
+    "hash": "5202ea29dfcca13988b9e611e7881a35",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/jsNodes.dll"
+  },
+  {
+    "nombre": "auth/ace/snippets/json.js",
+    "hash": "be49208cc359a87152c752b0ea41d609",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/json.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/json5.js",
+    "hash": "5b75f732d10ba9e0a538a529b8e92cec",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/json5.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/jsoniq.js",
+    "hash": "fe5fd32b764aa22fde63925ac549a9c9",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/jsoniq.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/jsp.js",
+    "hash": "6e4d1075690c1f17775f02251592ac60",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/jsp.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/jssm.js",
+    "hash": "b3a101d0edbf04b3879b5e76bdde1ea3",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/jssm.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/jsx.js",
+    "hash": "0d00a50d1d38185cd5ae6fbbf13ed127",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/jsx.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/julia.js",
+    "hash": "1dc321da606125ce0592e274e01c728d",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/julia.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/kotlin.js",
+    "hash": "b49c70bf5635caccc9b20ea803357cb4",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/kotlin.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/latex.js",
+    "hash": "4a5221411f26f95ac1712b172c9e65c5",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/latex.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/less.js",
+    "hash": "76f1c23a8b5915860d0fcd83d2f6ec34",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/less.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/liquid.js",
+    "hash": "a026164ca1f6f157fcb0f5f6bfd4abce",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/liquid.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/lisp.js",
+    "hash": "194e7c1e6dc06bec6fb0178f3fd90e24",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/lisp.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/livescript.js",
+    "hash": "2b925862cf75380c5db0ea4e9f525eaa",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/livescript.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/logiql.js",
+    "hash": "70490ee4f92bec1a900f840c7bbd0395",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/logiql.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/logtalk.js",
+    "hash": "099a08f3a796b92b7599ffde3c10c70c",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/logtalk.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/lsl.js",
+    "hash": "63ccb1f1a27a2bf6271f40d3082186f4",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/lsl.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/lua.js",
+    "hash": "aa2f98073a8d9f266f3928b5d9c457d1",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/lua.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/luapage.js",
+    "hash": "34bfb804dde47824b1f3f4292afc3669",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/luapage.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/lucene.js",
+    "hash": "232ec126b4babd38fc463222ffeeafa4",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/lucene.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/makefile.js",
+    "hash": "b26738d581e044c69f7a4392906e6843",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/makefile.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/markdown.js",
+    "hash": "4750f0ff62cbd59f35aac31b996194e6",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/markdown.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/mask.js",
+    "hash": "5ffe6036955225e3811a2f79d4cfc9ad",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/mask.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/matlab.js",
+    "hash": "0ce085f9290d691fe3ec63e475d1867a",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/matlab.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/maze.js",
+    "hash": "1295d4470d348d3ff8ea442b1dcef3d3",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/maze.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/mel.js",
+    "hash": "bd31647feb59f240e6c02a3b4ece9194",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/mel.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/mixal.js",
+    "hash": "ba4c03e8665597d9a60281eba5a7f4cc",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/mixal.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/mushcode.js",
+    "hash": "79f59a5fa9dc76c6f39b2e59cc629aa9",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/mushcode.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/mysql.js",
+    "hash": "115ab67b3f87b1c843ea1543b9559a72",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/mysql.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/nginx.js",
+    "hash": "d02420d139c1d5e5f55f20b9b5de1745",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/nginx.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/nim.js",
+    "hash": "1ee926929d9ed8bdec3590b47752486e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/nim.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/nix.js",
+    "hash": "f08ee90c055c58684f8f371367156cba",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/nix.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/nsis.js",
+    "hash": "c87208f97f8f1e90f13f95515ade8e0b",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/nsis.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/nunjucks.js",
+    "hash": "0165789b9354c0440128a822a1cd03ef",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/nunjucks.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/objectivec.js",
+    "hash": "8b0a028adcf89579ab64902ed9c82ce3",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/objectivec.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/ocaml.js",
+    "hash": "b531361385eccab30c8c82d0d07975df",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/ocaml.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/pascal.js",
+    "hash": "1810046f2f3e963af7edc12bdd0f5982",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/pascal.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/perl.js",
+    "hash": "c2c0e5fa8323e2c5c1f54f20afda51b8",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/perl.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/perl6.js",
+    "hash": "0bc694c68cb6c8f60f1605c7e3f8f284",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/perl6.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/pgsql.js",
+    "hash": "1517d7a249c47eaf819aa1fcca0d9f1e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/pgsql.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/php.js",
+    "hash": "0a4b12234fd7cba4d7c62207e4835f4c",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/php.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/php_laravel_blade.js",
+    "hash": "835463665498ec7fc4b0e297f316ae3c",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/php_laravel_blade.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/pig.js",
+    "hash": "c3854e9250665ca1762d854028663453",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/pig.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/plain_text.js",
+    "hash": "78ac9df80ff1079a3b9805fdef1346ec",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/plain_text.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/powershell.js",
+    "hash": "ae8ef91c47351a3b457142908804ddee",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/powershell.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/praat.js",
+    "hash": "f1a4f9fa2839f32bf511a7a94552cd10",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/praat.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/prolog.js",
+    "hash": "ca5a4993e1b540cb126c33a065618710",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/prolog.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/properties.js",
+    "hash": "0ce1238464e3ffdc94507b661c65f4b6",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/properties.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/protobuf.js",
+    "hash": "bbba373303ed08ad9d879c910b7d4c52",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/protobuf.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/puppet.js",
+    "hash": "24344120218dd5c1a38ac2ccd534ed49",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/puppet.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/python.js",
+    "hash": "30314e1b4a51b1aed3766eadecde2a42",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/python.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/r.js",
+    "hash": "c24de6963d7d00c269db34091059e06d",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/r.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/razor.js",
+    "hash": "e1dbe800b2d3f5d74b2b5480ea2b897a",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/razor.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/rdoc.js",
+    "hash": "0c3615fc194682bd2043624d19f6352e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/rdoc.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/red.js",
+    "hash": "042a0929611f7e1e7513258ec70ebdf5",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/red.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/redshift.js",
+    "hash": "8f711670286d836c87f053eba3155ae3",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/redshift.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/rhtml.js",
+    "hash": "bd3fe0cb02f91716423087b47b28b82c",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/rhtml.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/rst.js",
+    "hash": "4705b919138245a5b454d25f8e418435",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/rst.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/ruby.js",
+    "hash": "5e4dd0452f14cf5dbb02a7dc7d9dda76",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/ruby.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/rust.js",
+    "hash": "9751c3ba21e5579961186c1b62448f0e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/rust.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/sass.js",
+    "hash": "c9e65eaaba31f7810b70a3c83da126b8",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/sass.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/scad.js",
+    "hash": "760d3c7148086eee1748e6c79ad0ec3c",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/scad.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/scala.js",
+    "hash": "f4a289a80719015c317663b24b247c87",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/scala.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/scheme.js",
+    "hash": "0fcfed328afda56a1dd4ca6c43cfae47",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/scheme.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/scss.js",
+    "hash": "528a3090b1df1ea3c80e351f32564d05",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/scss.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/sh.js",
+    "hash": "43bd62d6b50d1253f782c9ae5be1593d",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/sh.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/sjs.js",
+    "hash": "9de3efe1c10db748055833e85b84bf6d",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/sjs.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/slim.js",
+    "hash": "24dba425022a2cc94cb07980b04f60b8",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/slim.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/smarty.js",
+    "hash": "d16f522ad0e550a350806bec108a54c4",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/smarty.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/snippets.js",
+    "hash": "0870bcf868f8d64dc9a6226a6c8b341d",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/snippets.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/soy_template.js",
+    "hash": "3d4857cb734b986828b117a81f6bf14b",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/soy_template.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/space.js",
+    "hash": "e98622ae0885350f586d342baeb8bb72",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/space.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/sparql.js",
+    "hash": "a7a8954ebdda0bd61e004955cdb79bfd",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/sparql.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/sql.js",
+    "hash": "144991c48dbba89bfe10e886aaaed32a",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/sql.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/sqlserver.js",
+    "hash": "0768225f873adf5f103dcb714f17783d",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/sqlserver.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/stylus.js",
+    "hash": "ab2c1db619f8721ba22987d9c71f5e1d",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/stylus.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/svg.js",
+    "hash": "9f438a1f2c25e723ea81abe0e79a1849",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/svg.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/swift.js",
+    "hash": "aae854c65b0dda243a618fc2b9fb0ca1",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/swift.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/tcl.js",
+    "hash": "8120c57dbca7501da3ecf702c811f16f",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/tcl.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/terraform.js",
+    "hash": "63208c820c4046f8374189255b5dd7f4",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/terraform.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/tex.js",
+    "hash": "451c3753fb6dfc1f2de25cb7524f4bb2",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/tex.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/text.js",
+    "hash": "5b8f7d64aca3cf7fe59c8a035868b3e0",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/text.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/textile.js",
+    "hash": "8681f562786fa45bebe8ee7ed2461026",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/textile.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/toml.js",
+    "hash": "3be3e31b3decff384801f14329554a9c",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/toml.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/tsx.js",
+    "hash": "7eb2bdfcd9aad382b243167fe130f18d",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/tsx.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/turtle.js",
+    "hash": "a97b36e84118cdf617d96b3338182518",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/turtle.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/twig.js",
+    "hash": "73a5ec171b6c3cbf69069a762aee934d",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/twig.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/typescript.js",
+    "hash": "38ec644b492741cce581c3fe271917d6",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/typescript.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/vala.js",
+    "hash": "3f9e3ae9d4ee540b9fb067b6fd29d529",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/vala.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/vbscript.js",
+    "hash": "11bf0f7ed4a8973f585ee98239613ebc",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/vbscript.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/velocity.js",
+    "hash": "be2fbe775b19bdc18e4f78de18beb433",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/velocity.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/verilog.js",
+    "hash": "ed7f5ed687afb9af0c34eff3df121dc8",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/verilog.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/vhdl.js",
+    "hash": "b35ea3b0b73c16e1623b4820fbe2e105",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/vhdl.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/visualforce.js",
+    "hash": "3196e77163eef23bd214e00b4505b1b8",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/visualforce.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/wollok.js",
+    "hash": "acc4ded8b9debce27f884c9cce5bf63c",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/wollok.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/xml.js",
+    "hash": "614659dcc6738ffbd6e8ca379768549b",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/xml.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/xquery.js",
+    "hash": "646c9322233a0ba128268dee916e5719",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/xquery.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/yaml.js",
+    "hash": "b0f618b1a155de1495030d31facf6692",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/yaml.js"
+  },
+  {
+    "nombre": "auth/ace/snippets/zeek.js",
+    "hash": "03543be4e522860a625fbe3ee88155b7",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/zeek.js"
+  }
+]
