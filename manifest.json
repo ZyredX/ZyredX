@@ -15,6 +15,11 @@
     "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/listboxcolor.txt"
   },
   {
+    "nombre": "auth/Monaco.html",
+    "hash": "c84739a5e95b3cd7a77ac2d64b703880",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/Monaco.html"
+  },
+  {
     "nombre": "auth/ace/ace.js",
     "hash": "95358dbd5c3c0b35da317ad06ed598e7",
     "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/ace.js"
@@ -383,6 +388,36 @@
     "nombre": "auth/ace/worker-xquery.js",
     "hash": "d0941c51a8a87775aaad8f463e5f5e4c",
     "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/worker-xquery.js"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Last Version",
+    "hash": "e60e96d38eb403b46cf2b0a09cc59ae9",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Last%20Version"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Local State",
+    "hash": "3baf3686526c8507f249ea9bc013b3ae",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Local%20State"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Variations",
+    "hash": "bc6142469cd7dadf107be9ad87ea4753",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Variations"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/VariationsRuntimeSeedV2",
+    "hash": "1002f3c2cd48a0a31f7a83b4ccae3e86",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/VariationsRuntimeSeedV2"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/VariationsSafeSeedV2",
+    "hash": "78bb337b5e38a8a32331f18d8a2d3cda",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/VariationsSafeSeedV2"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/VariationsSeedV2",
+    "hash": "230cf075473f64215dbd9c9e3f117930",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/VariationsSeedV2"
   },
   {
     "nombre": "auth/ace/snippets/abap.js",
@@ -1228,5 +1263,930 @@
     "nombre": "auth/ace/snippets/zeek.js",
     "hash": "03543be4e522860a625fbe3ee88155b7",
     "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/snippets/zeek.js"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/component_crx_cache/95fd9d48e4fc245a3f3a99a3a16ecd1355050ba3f4afc555f19a97c7f9b49677",
+    "hash": "89fb6ce8c3a916d3d5a46bb06d99b190",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/component_crx_cache/95fd9d48e4fc245a3f3a99a3a16ecd1355050ba3f4afc555f19a97c7f9b49677"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/component_crx_cache/cde4f808f038aaffece9680c0356ded00c81c4559e0a431acb45d1276425d9eb",
+    "hash": "0cf2afbef67baa7b80cf1fec8da50d99",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/component_crx_cache/cde4f808f038aaffece9680c0356ded00c81c4559e0a431acb45d1276425d9eb"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/component_crx_cache/ef7bf9efb7c82e6847b572d7781e11fc7fd642a55ab79e42a3d3ba2f80d520f6",
+    "hash": "831b22d7acadc1cb1c2aaaf88c2c2038",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/component_crx_cache/ef7bf9efb7c82e6847b572d7781e11fc7fd642a55ab79e42a3d3ba2f80d520f6"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/component_crx_cache/metadata.json",
+    "hash": "9c71a44f1f6a69d4d6d049dbd3badd0e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/component_crx_cache/metadata.json"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Crashpad/metadata",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Crashpad/metadata"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Crashpad/settings.dat",
+    "hash": "8db32fdbbe3c39c81123fdc11e3eeefa",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Crashpad/settings.dat"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Crashpad/throttle_store.dat",
+    "hash": "9e4e94633b73f4a7680240a0ffd6cd2c",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Crashpad/throttle_store.dat"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/BookmarkMergedSurfaceOrdering",
+    "hash": "377d072e137022223a370760763420bb",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/BookmarkMergedSurfaceOrdering"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/declarative_performance_observer.db",
+    "hash": "f098b0fdf6f4a69a8df2057746dba95c",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/declarative_performance_observer.db"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/declarative_performance_observer.db-journal",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/declarative_performance_observer.db-journal"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/DIPS",
+    "hash": "9b3432fdf6e6bfc74299b937ed76b75d",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/DIPS"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/ExtensionActivityComp",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/ExtensionActivityComp"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/ExtensionActivityEdge",
+    "hash": "993c57789f81224dc40621260ce6122e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/ExtensionActivityEdge"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/ExtensionActivityEdge-journal",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/ExtensionActivityEdge-journal"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Favicons",
+    "hash": "67c35ca6e7631e71abd29316aab10933",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Favicons"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Favicons-journal",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Favicons-journal"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/favorites_diagnostic.log",
+    "hash": "fef5c878afbf784572398bbcf5e2d36b",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/favorites_diagnostic.log"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/History",
+    "hash": "d832bc73f34858e178ae621188b7ea1b",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/History"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/History-journal",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/History-journal"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/LOCK",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/LOCK"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/LOG",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/LOG"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/LOG.old",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/LOG.old"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Login Data",
+    "hash": "99685421146070fda2f72a5b0e9b8733",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Login%20Data"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Login Data For Account",
+    "hash": "99685421146070fda2f72a5b0e9b8733",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Login%20Data%20For%20Account"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Login Data For Account-journal",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Login%20Data%20For%20Account-journal"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Login Data-journal",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Login%20Data-journal"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Network Action Predictor",
+    "hash": "4cf3de9a1d3a0861a23fe24eafb29439",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Network%20Action%20Predictor"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Network Action Predictor-journal",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Network%20Action%20Predictor-journal"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Preferences",
+    "hash": "e4c2f0ba0af1cdcd0bd5ff9e8e6d6a9f",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Preferences"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/README",
+    "hash": "643e00b0186aa80523f8a6bed550a925",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/README"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Secure Preferences",
+    "hash": "d869b7ae45e00f99ff776cbd4d9be18f",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Secure%20Preferences"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/ServerCertificate",
+    "hash": "b1923448bb97aa1eafcfa1057b350543",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/ServerCertificate"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/ServerCertificate-journal",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/ServerCertificate-journal"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/settings_diagnostic.log",
+    "hash": "d8c36043a3b2f7974d001b0662fd7a37",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/settings_diagnostic.log"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Top Sites",
+    "hash": "a74b3238806b010e702386c5218afdde",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Top%20Sites"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Top Sites-journal",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Top%20Sites-journal"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Vpn Tokens",
+    "hash": "400ffdb5cb6bf651dc379826cc74db30",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Vpn%20Tokens"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Vpn Tokens-journal",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Vpn%20Tokens-journal"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Web Data",
+    "hash": "66ba03fcea3537db66451a67a59d678d",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Web%20Data"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Web Data-journal",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Web%20Data-journal"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/extensions_crx_cache/metadata.json",
+    "hash": "2aa9e263ee3796d9ce358460a2451b4c",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/extensions_crx_cache/metadata.json"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/GrShaderCache/data_0",
+    "hash": "cef5d7a27ed699579cc3a33d8fd8692a",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/GrShaderCache/data_0"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/GrShaderCache/data_1",
+    "hash": "e8c75f4c64c1bfdca77144ae9760eb93",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/GrShaderCache/data_1"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/GrShaderCache/data_2",
+    "hash": "0962291d6d367570bee5454721c17e11",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/GrShaderCache/data_2"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/GrShaderCache/data_3",
+    "hash": "30bbf77d76a53f74372f9cf7bda6b50e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/GrShaderCache/data_3"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/GrShaderCache/index",
+    "hash": "fc91c5957fdfac26e1610522ea5df7ee",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/GrShaderCache/index"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/ShaderCache/data_0",
+    "hash": "cf89d16bb9107c631daabf0c0ee58efb",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/ShaderCache/data_0"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/ShaderCache/data_1",
+    "hash": "25acad4ba9f36b9d4cd0a5df9179c473",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/ShaderCache/data_1"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/ShaderCache/data_2",
+    "hash": "0962291d6d367570bee5454721c17e11",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/ShaderCache/data_2"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/ShaderCache/data_3",
+    "hash": "41876349cb12d6db992f1309f22df3f0",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/ShaderCache/data_3"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/ShaderCache/index",
+    "hash": "7ea06910eaa6b5f32df20e2bf4400f02",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/ShaderCache/index"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/AutoLaunchProtocolsComponent/1.0.0.12/protocols.json",
+    "hash": "5e2067a92dcfcb05537479c384a89725",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/AutoLaunchProtocolsComponent/1.0.0.12/protocols.json"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/AutofillAiModelCache/LOCK",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/AutofillAiModelCache/LOCK"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/AutofillAiModelCache/LOG",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/AutofillAiModelCache/LOG"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/AutofillAiModelCache/LOG.old",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/AutofillAiModelCache/LOG.old"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/AutofillStrikeDatabase/LOCK",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/AutofillStrikeDatabase/LOCK"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/AutofillStrikeDatabase/LOG",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/AutofillStrikeDatabase/LOG"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/AutofillStrikeDatabase/LOG.old",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/AutofillStrikeDatabase/LOG.old"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/BudgetDatabase/LOCK",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/BudgetDatabase/LOCK"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/BudgetDatabase/LOG",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/BudgetDatabase/LOG"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/BudgetDatabase/LOG.old",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/BudgetDatabase/LOG.old"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/ClientCertificates/LOCK",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/ClientCertificates/LOCK"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/ClientCertificates/LOG",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/ClientCertificates/LOG"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/ClientCertificates/LOG.old",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/ClientCertificates/LOG.old"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/commerce_subscription_db/LOCK",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/commerce_subscription_db/LOCK"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/commerce_subscription_db/LOG",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/commerce_subscription_db/LOG"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/commerce_subscription_db/LOG.old",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/commerce_subscription_db/LOG.old"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/DawnGraphiteCache/data_0",
+    "hash": "cf89d16bb9107c631daabf0c0ee58efb",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/DawnGraphiteCache/data_0"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/DawnGraphiteCache/data_1",
+    "hash": "864a44e14b9b60e37289a9f943fb8135",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/DawnGraphiteCache/data_1"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/DawnGraphiteCache/data_2",
+    "hash": "0962291d6d367570bee5454721c17e11",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/DawnGraphiteCache/data_2"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/DawnGraphiteCache/data_3",
+    "hash": "41876349cb12d6db992f1309f22df3f0",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/DawnGraphiteCache/data_3"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/DawnGraphiteCache/index",
+    "hash": "5366b48e00e8a1109c4f6d38e1be7eff",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/DawnGraphiteCache/index"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/DawnWebGPUCache/data_0",
+    "hash": "cf89d16bb9107c631daabf0c0ee58efb",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/DawnWebGPUCache/data_0"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/DawnWebGPUCache/data_1",
+    "hash": "62ce6338af2506082c8c0f356a3bf7b2",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/DawnWebGPUCache/data_1"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/DawnWebGPUCache/data_2",
+    "hash": "0962291d6d367570bee5454721c17e11",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/DawnWebGPUCache/data_2"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/DawnWebGPUCache/data_3",
+    "hash": "41876349cb12d6db992f1309f22df3f0",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/DawnWebGPUCache/data_3"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/DawnWebGPUCache/index",
+    "hash": "08be513073d688243da7df25a34f82de",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/DawnWebGPUCache/index"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/discounts_db/LOCK",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/discounts_db/LOCK"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/discounts_db/LOG",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/discounts_db/LOG"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/discounts_db/LOG.old",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/discounts_db/LOG.old"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/discount_infos_db/LOCK",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/discount_infos_db/LOCK"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/discount_infos_db/LOG",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/discount_infos_db/LOG"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/discount_infos_db/LOG.old",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/discount_infos_db/LOG.old"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/EdgeSessions/SessionRestoreLog",
+    "hash": "b8df6e8d6a1baeb9b910bd29b7e91a01",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/EdgeSessions/SessionRestoreLog"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Extension Rules/000003.log",
+    "hash": "51a2cbb807f5085530dec18e45cb8569",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Extension%20Rules/000003.log"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Extension Rules/CURRENT",
+    "hash": "46295cac801e5d4857d09837238a6394",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Extension%20Rules/CURRENT"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Extension Rules/LOCK",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Extension%20Rules/LOCK"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Extension Rules/LOG",
+    "hash": "4094722c84fdc026f22dfb96e5e6c0ad",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Extension%20Rules/LOG"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Extension Rules/MANIFEST-000001",
+    "hash": "5af87dfd673ba2115e2fcf5cfdb727ab",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Extension%20Rules/MANIFEST-000001"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Extension Scripts/000003.log",
+    "hash": "51a2cbb807f5085530dec18e45cb8569",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Extension%20Scripts/000003.log"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Extension Scripts/CURRENT",
+    "hash": "46295cac801e5d4857d09837238a6394",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Extension%20Scripts/CURRENT"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Extension Scripts/LOCK",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Extension%20Scripts/LOCK"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Extension Scripts/LOG",
+    "hash": "c337e2a05ec83c9382793c109cb8b863",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Extension%20Scripts/LOG"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Extension Scripts/MANIFEST-000001",
+    "hash": "5af87dfd673ba2115e2fcf5cfdb727ab",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Extension%20Scripts/MANIFEST-000001"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Extension State/000003.log",
+    "hash": "891a884b9fa2bff4519f5f56d2a25d62",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Extension%20State/000003.log"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Extension State/CURRENT",
+    "hash": "46295cac801e5d4857d09837238a6394",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Extension%20State/CURRENT"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Extension State/LOCK",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Extension%20State/LOCK"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Extension State/LOG",
+    "hash": "fc690cfeb649a66b73bc3de38b119a7d",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Extension%20State/LOG"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Extension State/LOG.old",
+    "hash": "56015af6e2abfee7495f66e062a1c7c1",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Extension%20State/LOG.old"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Extension State/MANIFEST-000001",
+    "hash": "5af87dfd673ba2115e2fcf5cfdb727ab",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Extension%20State/MANIFEST-000001"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/GPUCache/data_0",
+    "hash": "cf89d16bb9107c631daabf0c0ee58efb",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/GPUCache/data_0"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/GPUCache/data_1",
+    "hash": "93d87edef099904547abcdfaa7070760",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/GPUCache/data_1"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/GPUCache/data_2",
+    "hash": "0962291d6d367570bee5454721c17e11",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/GPUCache/data_2"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/GPUCache/data_3",
+    "hash": "41876349cb12d6db992f1309f22df3f0",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/GPUCache/data_3"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/GPUCache/index",
+    "hash": "91c226866cffd8bd57a7286e533097b2",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/GPUCache/index"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Network/Cookies",
+    "hash": "d24d5cf96e775ee24d2671d27b32fef3",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Network/Cookies"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Network/Cookies-journal",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Network/Cookies-journal"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Network/Device Bound Sessions",
+    "hash": "328c13153fe9d58b19bb8b9cbf32be49",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Network/Device%20Bound%20Sessions"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Network/Device Bound Sessions-journal",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Network/Device%20Bound%20Sessions-journal"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Network/Network Persistent State",
+    "hash": "805bd5127b10a396f53db35486b61f0c",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Network/Network%20Persistent%20State"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Network/NetworkDataMigrated",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Network/NetworkDataMigrated"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Network/Reporting and NEL",
+    "hash": "b43449cb1ac6ac42d4be88e0c12ccd3b",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Network/Reporting%20and%20NEL"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Network/Reporting and NEL-journal",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Network/Reporting%20and%20NEL-journal"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Network/SCT Auditing Pending Reports",
+    "hash": "d751713988987e9331980363e24189ce",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Network/SCT%20Auditing%20Pending%20Reports"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Network/Sdch Dictionaries",
+    "hash": "20d4b8fa017a12a108c87f540836e250",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Network/Sdch%20Dictionaries"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Network/Trust Tokens",
+    "hash": "d0cfb91e138e37eaa299c3bdc98a03bf",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Network/Trust%20Tokens"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Network/Trust Tokens-journal",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Network/Trust%20Tokens-journal"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/optimization_guide_hint_cache_store/LOCK",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/optimization_guide_hint_cache_store/LOCK"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/optimization_guide_hint_cache_store/LOG",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/optimization_guide_hint_cache_store/LOG"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/optimization_guide_hint_cache_store/LOG.old",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/optimization_guide_hint_cache_store/LOG.old"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/parcel_tracking_db/LOCK",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/parcel_tracking_db/LOCK"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/parcel_tracking_db/LOG",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/parcel_tracking_db/LOG"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/parcel_tracking_db/LOG.old",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/parcel_tracking_db/LOG.old"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/PersistentOriginTrials/LOCK",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/PersistentOriginTrials/LOCK"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/PersistentOriginTrials/LOG",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/PersistentOriginTrials/LOG"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/PersistentOriginTrials/LOG.old",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/PersistentOriginTrials/LOG.old"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Session Storage/000003.log",
+    "hash": "822ab3327971b4fdd18a2fbbb53ba761",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Session%20Storage/000003.log"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Session Storage/CURRENT",
+    "hash": "46295cac801e5d4857d09837238a6394",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Session%20Storage/CURRENT"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Session Storage/LOCK",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Session%20Storage/LOCK"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Session Storage/LOG",
+    "hash": "d590897a30406f6810b19101fed51b31",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Session%20Storage/LOG"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Session Storage/MANIFEST-000001",
+    "hash": "5af87dfd673ba2115e2fcf5cfdb727ab",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Session%20Storage/MANIFEST-000001"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Shared Dictionary/db",
+    "hash": "500bfcba6ed5547f3f19ed335bfd609c",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Shared%20Dictionary/db"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Shared Dictionary/db-journal",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Shared%20Dictionary/db-journal"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/shared_proto_db/000003.log",
+    "hash": "69e2e342ab19b9b0a6ad67455992fd85",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/shared_proto_db/000003.log"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/shared_proto_db/CURRENT",
+    "hash": "46295cac801e5d4857d09837238a6394",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/shared_proto_db/CURRENT"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/shared_proto_db/LOCK",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/shared_proto_db/LOCK"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/shared_proto_db/LOG",
+    "hash": "96d415106f508c86306663dc9891c982",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/shared_proto_db/LOG"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/shared_proto_db/LOG.old",
+    "hash": "4b8e8c076bf9e4abea26128186cc1eae",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/shared_proto_db/LOG.old"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/shared_proto_db/MANIFEST-000001",
+    "hash": "5af87dfd673ba2115e2fcf5cfdb727ab",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/shared_proto_db/MANIFEST-000001"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Site Characteristics Database/000003.log",
+    "hash": "148079685e25097536785f4536af014b",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Site%20Characteristics%20Database/000003.log"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Site Characteristics Database/CURRENT",
+    "hash": "46295cac801e5d4857d09837238a6394",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Site%20Characteristics%20Database/CURRENT"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Site Characteristics Database/LOCK",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Site%20Characteristics%20Database/LOCK"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Site Characteristics Database/LOG",
+    "hash": "9005b485ffcf5dd17bf4971d28254a01",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Site%20Characteristics%20Database/LOG"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Site Characteristics Database/LOG.old",
+    "hash": "de3c219255f5e4aaae0788cc1f870bef",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Site%20Characteristics%20Database/LOG.old"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Site Characteristics Database/MANIFEST-000001",
+    "hash": "5af87dfd673ba2115e2fcf5cfdb727ab",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Site%20Characteristics%20Database/MANIFEST-000001"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/SmartScreen/RemoteData/customSettings",
+    "hash": "48324111147decc23ac222a361873fc5",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/SmartScreen/RemoteData/customSettings"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/SmartScreen/RemoteData/customSettings_F95BA787499AB4FA9EFFF472CE383A14",
+    "hash": "bb57a76019eadedc27f04eb2fb1f1841",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/SmartScreen/RemoteData/customSettings_F95BA787499AB4FA9EFFF472CE383A14"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/SmartScreen/RemoteData/edgeSettings",
+    "hash": "5692162977b015e31d5f35f50efab9cf",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/SmartScreen/RemoteData/edgeSettings"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/SmartScreen/RemoteData/edgeSettings_2.0-0",
+    "hash": "513779b6bfa021200e846cd53c017a5f",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/SmartScreen/RemoteData/edgeSettings_2.0-0"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/TrustTokenKeyCommitments/2026.8.3.1/keys.json",
+    "hash": "ee666d1b2290efa6cdbc89ea3d317333",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/TrustTokenKeyCommitments/2026.8.3.1/keys.json"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/TrustTokenKeyCommitments/2026.8.3.1/LICENSE",
+    "hash": "ee002cb9e51bb8dfa89640a406a1090a",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/TrustTokenKeyCommitments/2026.8.3.1/LICENSE"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Code Cache/js/index",
+    "hash": "54cb446f628b2ea4a5bce5769910512e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Code%20Cache/js/index"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Code Cache/wasm/index",
+    "hash": "54cb446f628b2ea4a5bce5769910512e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Code%20Cache/wasm/index"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Feature Engagement Tracker/AvailabilityDB/LOCK",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Feature%20Engagement%20Tracker/AvailabilityDB/LOCK"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Feature Engagement Tracker/AvailabilityDB/LOG",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Feature%20Engagement%20Tracker/AvailabilityDB/LOG"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Feature Engagement Tracker/AvailabilityDB/LOG.old",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Feature%20Engagement%20Tracker/AvailabilityDB/LOG.old"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Feature Engagement Tracker/EventDB/LOCK",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Feature%20Engagement%20Tracker/EventDB/LOCK"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Feature Engagement Tracker/EventDB/LOG",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Feature%20Engagement%20Tracker/EventDB/LOG"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Feature Engagement Tracker/EventDB/LOG.old",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Feature%20Engagement%20Tracker/EventDB/LOG.old"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Local Storage/leveldb/000003.log",
+    "hash": "0c111878521ecdc0aea2b7c21447525f",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Local%20Storage/leveldb/000003.log"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Local Storage/leveldb/CURRENT",
+    "hash": "46295cac801e5d4857d09837238a6394",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Local%20Storage/leveldb/CURRENT"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Local Storage/leveldb/LOCK",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Local%20Storage/leveldb/LOCK"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Local Storage/leveldb/LOG",
+    "hash": "9bce35d5963575f1e34f4817979c6804",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Local%20Storage/leveldb/LOG"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Local Storage/leveldb/LOG.old",
+    "hash": "3ac6c051903fd585cbfe94ec40ccca9b",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Local%20Storage/leveldb/LOG.old"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Local Storage/leveldb/MANIFEST-000001",
+    "hash": "5af87dfd673ba2115e2fcf5cfdb727ab",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Local%20Storage/leveldb/MANIFEST-000001"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Shared Dictionary/cache/index",
+    "hash": "54cb446f628b2ea4a5bce5769910512e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Shared%20Dictionary/cache/index"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/shared_proto_db/metadata/000003.log",
+    "hash": "1afe5407401f969bd62241132b96fceb",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/shared_proto_db/metadata/000003.log"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/shared_proto_db/metadata/CURRENT",
+    "hash": "46295cac801e5d4857d09837238a6394",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/shared_proto_db/metadata/CURRENT"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/shared_proto_db/metadata/LOCK",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/shared_proto_db/metadata/LOCK"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/shared_proto_db/metadata/LOG",
+    "hash": "7c53ba279c9f3d6908cdbb1e48ce4817",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/shared_proto_db/metadata/LOG"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/shared_proto_db/metadata/LOG.old",
+    "hash": "410ad3ffeaf175e3af4d1f36c9410997",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/shared_proto_db/metadata/LOG.old"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/shared_proto_db/metadata/MANIFEST-000001",
+    "hash": "5af87dfd673ba2115e2fcf5cfdb727ab",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/shared_proto_db/metadata/MANIFEST-000001"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Sync Data/LevelDB/000003.log",
+    "hash": "b14764cd1bc1aa64a1f0551cd3682b81",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Sync%20Data/LevelDB/000003.log"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Sync Data/LevelDB/CURRENT",
+    "hash": "46295cac801e5d4857d09837238a6394",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Sync%20Data/LevelDB/CURRENT"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Sync Data/LevelDB/LOCK",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Sync%20Data/LevelDB/LOCK"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Sync Data/LevelDB/LOG",
+    "hash": "2558019636b6c2dd63fe07c4e238c2fd",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Sync%20Data/LevelDB/LOG"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Sync Data/LevelDB/LOG.old",
+    "hash": "b79508b1bb6d3e40708e8575bb7f84ee",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Sync%20Data/LevelDB/LOG.old"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Sync Data/LevelDB/MANIFEST-000001",
+    "hash": "5af87dfd673ba2115e2fcf5cfdb727ab",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Sync%20Data/LevelDB/MANIFEST-000001"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/GPUPersistentCache/DawnGraphiteCache/ZBRSUVJ7IMDXK2RUP4UNAHPCKJL4BWQB/cache.db",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/GPUPersistentCache/DawnGraphiteCache/ZBRSUVJ7IMDXK2RUP4UNAHPCKJL4BWQB/cache.db"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/GPUPersistentCache/DawnGraphiteCache/ZBRSUVJ7IMDXK2RUP4UNAHPCKJL4BWQB/cache.db-wal",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/GPUPersistentCache/DawnGraphiteCache/ZBRSUVJ7IMDXK2RUP4UNAHPCKJL4BWQB/cache.db-wal"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/GPUPersistentCache/DawnGraphiteCache/ZBRSUVJ7IMDXK2RUP4UNAHPCKJL4BWQB/cache.journal",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/GPUPersistentCache/DawnGraphiteCache/ZBRSUVJ7IMDXK2RUP4UNAHPCKJL4BWQB/cache.journal"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/TrustTokenKeyCommitments/2026.8.3.1/_metadata/verified_contents.json",
+    "hash": "61be80a9c93aef9160d69c843d290855",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/TrustTokenKeyCommitments/2026.8.3.1/_metadata/verified_contents.json"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Code Cache/js/index-dir/the-real-index",
+    "hash": "438b40a171da0501f5290a554a8f335e",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Code%20Cache/js/index-dir/the-real-index"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Code Cache/wasm/index-dir/the-real-index",
+    "hash": "7837890c7478a5bbcb257c5b4ba5d7f5",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Code%20Cache/wasm/index-dir/the-real-index"
+  },
+  {
+    "nombre": "Synapse X.exe.WebView2/EBWebView/Default/Shared Dictionary/cache/index-dir/the-real-index",
+    "hash": "659ef8b333fdf01e8e151097cf3e649d",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/Synapse%20X.exe.WebView2/EBWebView/Default/Shared%20Dictionary/cache/index-dir/the-real-index"
   }
 ]
