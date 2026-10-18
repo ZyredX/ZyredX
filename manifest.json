@@ -15,6 +15,11 @@
     "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/listboxcolor.txt"
   },
   {
+    "nombre": "auth/theme.json",
+    "hash": "88fbc6cd02aa650d0e2e05273089142d",
+    "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/theme.json"
+  },
+  {
     "nombre": "auth/ace/ace.js",
     "hash": "95358dbd5c3c0b35da317ad06ed598e7",
     "url": "https://raw.githubusercontent.com/ZyredX/ZyredX/main/auth/ace/ace.js"
