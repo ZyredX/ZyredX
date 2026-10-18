@@ -1,0 +1,58 @@
+{
+  "Format": "SynapseWinForms",
+  "Version": 1,
+  "Main": {
+    "Logo": { "Enabled": true, "HideDefaultWithBackground": true, "Image": { "Path": "", "Online": false } },
+    "Base": {
+      "BackColor": { "A": 255, "R": 51, "G": 51, "B": 51 },
+      "Image": { "Path": "", "Online": false }
+    },
+    "TopBox": { "Enabled": true, "BackColor": { "A": 0, "R": 60, "G": 60, "B": 60 } },
+    "TitleBox": {
+      "Enabled": true,
+      "FormatString": "Synapse X - {version}",
+      "Font": { "Name": "Arial Rounded MT Bold", "Size": 9 },
+      "BackColor": { "A": 0, "R": 60, "G": 60, "B": 60 },
+      "TextColor": { "A": 255, "R": 255, "G": 255, "B": 255 }
+    },
+    "ButtonDefaults": {
+      "Font": { "Name": "Segoe UI Semibold", "Size": 9.75 },
+      "BackColor": { "A": 255, "R": 59, "G": 59, "B": 58 },
+      "TextColor": { "A": 255, "R": 255, "G": 255, "B": 255 }
+    },
+    "ScriptBox": {
+      "AdaptToBackgroundImage": true,
+      "ImageTintColor": { "A": 150, "R": 37, "G": 40, "B": 44 },
+      "Font": { "Name": "Segoe UI", "Size": 10.2 },
+      "ItemHeight": 25,
+      "BackColor": { "A": 0, "R": 60, "G": 60, "B": 60 },
+      "TextColor": { "A": 255, "R": 255, "G": 255, "B": 255 },
+      "HoverBackColor": { "A": 120, "R": 55, "G": 84, "B": 98 },
+      "SelectedBackColor": { "A": 180, "R": 55, "G": 84, "B": 98 },
+      "BorderColor": { "A": 220, "R": 45, "G": 125, "B": 164 }
+    },
+    "MinimizeButton": { "Font": { "Name": "Microsoft Sans Serif", "Size": 9 } },
+    "MaximizeButton": { "Font": { "Name": "Microsoft Sans Serif", "Size": 9 } },
+    "ExitButton": { "Font": { "Name": "Microsoft Sans Serif", "Size": 9 } },
+    "ExecuteButton": { "Text": "Execute" },
+    "ClearButton": { "Text": "Clear" },
+    "OpenFileButton": { "Text": "Open File" },
+    "ExecuteFileButton": { "Text": "Execute File" },
+    "SaveFileButton": { "Text": "Save File" },
+    "OptionsButton": { "Text": "Options" },
+    "AttachButton": { "Text": "Attach" },
+    "ScriptHubButton": { "TextNormal": "Script Hub", "TextYield": "Starting..." }
+  },
+  "Load": {
+    "Logo": { "Enabled": true, "HideDefaultWithBackground": true, "Image": { "Path": "", "Online": false } },
+    "TitleBox": { "Font": { "Name": "Microsoft YaHei UI", "Size": 9 } },
+    "StatusBox": { "Font": { "Name": "Microsoft YaHei UI", "Size": 10.2 } }
+  },
+  "ScriptHub": {
+    "Logo": { "Enabled": true, "HideDefaultWithBackground": true, "Image": { "Path": "", "Online": false } },
+    "TitleBox": { "Font": { "Name": "Arial Rounded MT Bold", "Size": 9 } },
+    "ButtonDefaults": { "Font": { "Name": "Segoe UI Semibold", "Size": 9.75 } },
+    "ExecuteButton": { "TextNormal": "Execute" },
+    "CloseButton": { "Text": "Close" }
+  }
+}
